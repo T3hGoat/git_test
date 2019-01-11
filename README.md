@@ -1,0 +1,1 @@
+This is Goatmilk's first git project!
